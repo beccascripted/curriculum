@@ -3,6 +3,12 @@ ScriptEd Foundations Curriculum
 
 ####Outline of Curriculum:
 
+###ScriptEd Curriculum Scope & Sequence
+
+| Unit | Unit Length | Unit Focus | Standards |
+|:-------|:------|:----------------|:--------------------|
+
+
 [Teacher Resources](Resources/)
 
 [Guidelines, Procedures and FAQs for Volunteers](Resources/Guidelines_Procedures_FAQs.md)
