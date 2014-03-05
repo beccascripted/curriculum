@@ -18,7 +18,7 @@ ScriptEd Foundations Curriculum
 
 Please note -- for additional resources on each topic, please visit the Teacher Resources link of this repository.  You will find alternate and supplemental lessons there!
 
-| Unit | Length of Unit | Unit Focus | Assessment | [ScriptEd Standards](https://drive.google.com/file/d/0B_tY-BUtXSQESGFJbHQ3M3pvdGs/edit?usp=sharing)|
+| Unit | Length of Unit | Unit Focus | Final Project | [ScriptEd Standards](https://drive.google.com/file/d/0B_tY-BUtXSQESGFJbHQ3M3pvdGs/edit?usp=sharing)|
 |:----:|:----------|:-----------|:----------|:------------------|
 | 1 <br> [**Intro**](https://github.com/ScriptEdcurriculum/curriculum/blob/master/lessons/01_Introductory%20Lesson/Teacher_Notes.md)| 1 session | Students will understand program goals. | N/A | N/A |
 | 2 <br> [**HTML & CSS**](https://github.com/ScriptEdcurriculum/curriculum/tree/master/lessons/02-05_html_css)| 4 sessions | Students will create a simple webpage <br> using HTML markup. | About Me <br> Page |A.HTML Pages.1-3 <br> A.Page Content.1-3 <br> A.Styling.1-2 |
@@ -37,7 +37,7 @@ ScriptEd's second semester curriculum move students from small and short project
 
 Please keep in mind that students must acheive atleast an "Effective" proficiency on [ScriptEd's rubric](bit.ly/ScriptEdCurriculum) to qualify for an internship.  
 
-| Unit | Length of Unit | Unit Focus | Assessment | [ScriptEd Standards](https://drive.google.com/file/d/0B_tY-BUtXSQESGFJbHQ3M3pvdGs/edit?usp=sharing)|
+| Unit | Length of Unit | Unit Focus | Final Project | [ScriptEd Standards](https://drive.google.com/file/d/0B_tY-BUtXSQESGFJbHQ3M3pvdGs/edit?usp=sharing)|
 |:----:|:----------|:-----------|:----------|:------------------|
 | 1 <br> [**Cloud 9**](https://github.com/ScriptEdcurriculum/curriculum/tree/master/lessons/Cloud9)| 1 session | Students will understand file structure<br> and how to use Cloud 9. | Cloud 9 <br>Account | A.HTML Pages.3 |
 |2 <br> [**Memory**](https://github.com/ScriptEdcurriculum/curriculum/blob/master/lessons/S02%2001%20Introductory%20Lesson/README.md) <br> [Memory Sample Program](https://github.com/ScriptEdcurriculum/curriculum/blob/master/lessons/S02%2001%20Introductory%20Lesson/Memory/memory.html) | 10 - 12 sessions | Students will design, build,<br> customize, and review a complex memory game.| Final Memory Game Project | A.HTML Pages.1-2 <br> A.Page Content.1-3 <br> A.Styling.1-2 <br> A.Wire Framing.1 <br  B.Variables.1-2 <br> B.JavaScript Types.1 <br> B.Boolean/Comparisons.1-3 <br> B.Loops and Control Flow.1-2 <br> B.Event Driven Behavior.1-2 <br> B.Functions.1 <br> C.Version Control.1-2 <br> C.Team work.1 <br> C.Team Wire Framing.1-2|
