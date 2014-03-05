@@ -13,7 +13,9 @@ ScriptEd Foundations Curriculum
 
 [Supplemental Lessons and Activities](https://github.com/ScriptEdcurriculum/curriculum/tree/master/Resources)
 
-######First Semester Scope & Sequence
+
+#####First Semester Scope & Sequence
+
 Please note -- for additional resources on each topic, please visit the Teacher Resources link of this repository.  You will find alternate and supplemental lessons there!
 
 | Unit | Unit Length | Unit Focus | Assessment | [ScriptEd Standards](https://drive.google.com/file/d/0B_tY-BUtXSQESGFJbHQ3M3pvdGs/edit?usp=sharing)|
