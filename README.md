@@ -1,13 +1,26 @@
 ScriptEd Foundations Curriculum
 ==========
 
-####Outline of Curriculum:
 
 ###ScriptEd Curriculum Scope & Sequence
 
-| Unit | Unit Length | Unit Focus | Standards |
-|:-------|:------|:----------------|:--------------------|
+####Semester 1
+| Unit | Unit Length | Unit Focus | Assessment | ScriptEd Standards |
+|:----:|:----------|:-----------|:----------|:------------------|
+| 1 <br> [**Intro**](https://github.com/ScriptEdcurriculum/curriculum/blob/master/lessons/01_Introductory%20Lesson/Teacher_Notes.md)| 1 session | Students will understand program goals. | N/A | N/A |
+| 2 <br> **HTML & CSS**| 4 sessions | Students will create a simple webpage <br> using HTML markup. | About Me <br> Page |A.HP.1-3 <br> A.PC.1-3 <br> A.S.1-2 |
+| 3 <br> **CSS** | 2 sessions | Students will understand positioning and divs. | Color Block activity | A.HP.1-3 <br> A.S.1-2 |
+| 4 <br> **Intro to JavaScript** | 4 sessions | Students will learn about variables <br> and math in programming. | Tip Calculator | B.V.1-2 <br> B.MO.1-5 <br> A.JST.1 |
+| 5 <br> **String Functions** | 2 sessions | Students will learn about functions <br> and basic string manipulation. | Mad Libs | B.S.1-3 <br> B.F.1|
+| 6 <br> **String Manipulation** | 2 sessions | Students will implement more advanced <br> string manipulation. | Strings! | B.S.1-3 <br> B.F.1| 
+| 7 <br> **Conditionals** | 2 sessions | Students will learn about random number <br> generator, comparison operators and<br> loops. | Number Guesser | B.MO.1-5 <br> B.JST.1 <br> B.BC.1-3<br>B.LCF.1-2| 
+| 8 <br> **Arrays & Loops** | 2 sessions | Students will learn about arrays and <br> random numbers. | Magic 8 Ball | B.MO.1-5 <br> B.A.1-2 <br> B.ED.1-3 <br> B.F.1|
+| 9 <br> **Hashes & Functions** | 2 sessions | Students will learn about hashes and <br> functions. | ATM | B.MO.1-5 <br> B.A.1-2 <br> B.EDB.1-2 <br> B.F.1|
+|10 <br> **Version Control** | 1-2 sessions | Students will set up a GitHub <br> account and will learn about how <br> to version source code<br> and sync it with an external source.| Github Sync & Commit| C.VC.1-2 <br> |
 
+
+
+####Outline of Curriculum:
 
 [Teacher Resources](Resources/)
 
